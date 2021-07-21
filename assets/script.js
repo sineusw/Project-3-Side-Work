@@ -15,6 +15,5 @@ async function callApi(query){
         latitude = lat; 
         longitude = lon
         responseData = response
-        //showing the results to the ui 
         
     }); 
